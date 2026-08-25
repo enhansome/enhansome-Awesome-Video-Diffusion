@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T03:56:19Z",
             "owner": "huggingface",
             "repo": "diffusers",
-            "stars": 34373
+            "stars": 34374
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-25T03:13:03Z",
             "owner": "modelscope",
             "repo": "DiffSynth-Studio",
-            "stars": 12983
+            "stars": 12985
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-25T03:29:39Z",
             "owner": "NVIDIA",
             "repo": "cosmos",
-            "stars": 11613
+            "stars": 11615
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-25T04:53:37Z",
             "owner": "hao-ai-lab",
             "repo": "FastVideo",
-            "stars": 4046
+            "stars": 4047
           }
         },
         {
@@ -252,10 +252,10 @@
             "archived": false,
             "id": 953945624,
             "language": "Python",
-            "last_commit": "2026-08-24T23:28:02Z",
+            "last_commit": "2026-08-25T07:16:10Z",
             "owner": "ModelTC",
             "repo": "LightX2V",
-            "stars": 2720
+            "stars": 2721
           }
         },
         {
@@ -987,7 +987,7 @@
             "last_commit": "2026-07-02T03:20:41Z",
             "owner": "OpenGVLab",
             "repo": "InternVideo",
-            "stars": 2367
+            "stars": 2368
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-08-25T02:18:10Z",
             "owner": "OpenMOSS",
             "repo": "MOVA",
-            "stars": 1101
+            "stars": 1102
           }
         },
         {
@@ -2553,7 +2553,7 @@
             "last_commit": "2026-01-17T17:43:28Z",
             "owner": "thu-ml",
             "repo": "SageAttention",
-            "stars": 3675
+            "stars": 3676
           }
         },
         {
@@ -2568,7 +2568,7 @@
             "last_commit": "2026-01-17T17:43:28Z",
             "owner": "thu-ml",
             "repo": "SageAttention",
-            "stars": 3675
+            "stars": 3676
           }
         },
         {
@@ -4854,7 +4854,7 @@
             "last_commit": "2025-07-27T13:37:47Z",
             "owner": "zibojia",
             "repo": "MiniMax-Remover",
-            "stars": 594
+            "stars": 595
           }
         },
         {
@@ -5847,7 +5847,7 @@
             "last_commit": "2026-08-24T12:13:22Z",
             "owner": "huggingface",
             "repo": "speech-to-speech",
-            "stars": 12841
+            "stars": 12842
           }
         },
         {
@@ -6123,7 +6123,7 @@
             "last_commit": "2025-08-20T22:16:56Z",
             "owner": "harlanhong",
             "repo": "ACTalker",
-            "stars": 464
+            "stars": 463
           }
         },
         {
@@ -7145,7 +7145,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:48:54.304Z",
+    "last_updated": "2026-08-25T07:23:33.027Z",
     "original_repository": "showlab/Awesome-Video-Diffusion",
     "original_repository_id": 628959446,
     "original_repository_sha": "0848b6ca0626c53d7b1973c42e44e15919db26be",
