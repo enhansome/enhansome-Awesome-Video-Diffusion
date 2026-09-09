@@ -15,11 +15,11 @@
             "id": 498011141,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T09:11:53Z",
-            "open_issues": 1422,
+            "last_commit": "2026-09-09T05:59:47Z",
+            "open_issues": 1421,
             "owner": "huggingface",
             "repo": "diffusers",
-            "stars": 34461,
+            "stars": 34469,
             "topics": [
               "deep-learning",
               "diffusion",
@@ -56,7 +56,7 @@
             "open_issues": 14,
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29678,
+            "stars": 29743,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -77,7 +77,7 @@
             "open_issues": 340,
             "owner": "Stability-AI",
             "repo": "generative-models",
-            "stars": 27282,
+            "stars": 27281,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -98,7 +98,7 @@
             "open_issues": 380,
             "owner": "Wan-Video",
             "repo": "Wan2.1",
-            "stars": 16947,
+            "stars": 16948,
             "topics": [
               "aigc",
               "videogeneration"
@@ -122,7 +122,7 @@
             "open_issues": 556,
             "owner": "modelscope",
             "repo": "DiffSynth-Studio",
-            "stars": 13067,
+            "stars": 13075,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -143,7 +143,7 @@
             "open_issues": 184,
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo",
-            "stars": 12503,
+            "stars": 12507,
             "topics": [
               "diffusion-models",
               "diffusion-transformer",
@@ -185,11 +185,11 @@
             "id": 910176789,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T21:00:57Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-08T15:27:38Z",
+            "open_issues": 50,
             "owner": "NVIDIA",
             "repo": "cosmos",
-            "stars": 11765,
+            "stars": 11779,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -210,7 +210,7 @@
             "open_issues": 100,
             "owner": "Lightricks",
             "repo": "LTX-Video",
-            "stars": 10940,
+            "stars": 10941,
             "topics": [
               "diffusion-models",
               "dit",
@@ -234,11 +234,11 @@
             "id": 517552648,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T09:47:19Z",
+            "last_commit": "2026-09-08T12:02:52Z",
             "open_issues": 18,
             "owner": "modelscope",
             "repo": "modelscope",
-            "stars": 9124,
+            "stars": 9125,
             "topics": [
               "cv",
               "deep-learning",
@@ -268,7 +268,7 @@
             "open_issues": 352,
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7506,
+            "stars": 7510,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -310,11 +310,11 @@
             "id": 877649153,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T01:50:34Z",
-            "open_issues": 179,
+            "last_commit": "2026-09-08T19:38:07Z",
+            "open_issues": 181,
             "owner": "hao-ai-lab",
             "repo": "FastVideo",
-            "stars": 4351,
+            "stars": 4363,
             "topics": [
               "diffusers",
               "diffusion-models",
@@ -342,7 +342,7 @@
             "open_issues": 59,
             "owner": "genmoai",
             "repo": "mochi",
-            "stars": 3721,
+            "stars": 3722,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -405,11 +405,11 @@
             "id": 953945624,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T10:35:42Z",
-            "open_issues": 197,
+            "last_commit": "2026-09-09T08:18:40Z",
+            "open_issues": 198,
             "owner": "ModelTC",
             "repo": "LightX2V",
-            "stars": 2796,
+            "stars": 2799,
             "topics": [
               "auto-regressive-diffusion-model",
               "diffusion-models",
@@ -441,7 +441,7 @@
             "open_issues": 42,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2138,
+            "stars": 2141,
             "topics": [
               "acceleration",
               "diffusion",
@@ -510,7 +510,7 @@
             "open_issues": 0,
             "owner": "wladradchenko",
             "repo": "wunjo.wladradchenko.ru",
-            "stars": 1168,
+            "stars": 1169,
             "topics": [
               "controlnet",
               "deepfake",
@@ -766,10 +766,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-21T15:28:08Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1765,
+            "stars": 1766,
             "topics": [
               "aigc",
               "benchmark",
@@ -796,10 +796,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-21T15:28:08Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "Vchitect",
             "repo": "VBench",
-            "stars": 1765,
+            "stars": 1766,
             "topics": [
               "aigc",
               "benchmark",
@@ -1078,7 +1078,7 @@
             "open_issues": 1,
             "owner": "DSL-Lab",
             "repo": "FVMD-frechet-video-motion-distance",
-            "stars": 84,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -1237,7 +1237,7 @@
             "open_issues": 340,
             "owner": "Stability-AI",
             "repo": "generative-models",
-            "stars": 27282,
+            "stars": 27281,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -1279,7 +1279,7 @@
             "open_issues": 119,
             "owner": "zai-org",
             "repo": "CogVideo",
-            "stars": 13003,
+            "stars": 13005,
             "topics": [
               "cogvideox",
               "image-to-video",
@@ -1349,7 +1349,7 @@
             "open_issues": 352,
             "owner": "SkyworkAI",
             "repo": "SkyReels-V2",
-            "stars": 7506,
+            "stars": 7510,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -1416,7 +1416,7 @@
             "open_issues": 37,
             "owner": "showlab",
             "repo": "Tune-A-Video",
-            "stars": 4362,
+            "stars": 4364,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -1461,7 +1461,7 @@
             "open_issues": 59,
             "owner": "ali-vilab",
             "repo": "VACE",
-            "stars": 3937,
+            "stars": 3939,
             "topics": [
               "video-editing",
               "video-generation"
@@ -1582,7 +1582,7 @@
             "open_issues": 91,
             "owner": "Doubiiu",
             "repo": "DynamiCrafter",
-            "stars": 3008,
+            "stars": 3007,
             "topics": [
               "image-animation",
               "image-to-video",
@@ -1631,7 +1631,7 @@
             "open_issues": 147,
             "owner": "OpenGVLab",
             "repo": "InternVideo",
-            "stars": 2379,
+            "stars": 2382,
             "topics": [
               "action-recognition",
               "benchmark",
@@ -1703,7 +1703,7 @@
             "open_issues": 42,
             "owner": "PKU-YuanGroup",
             "repo": "Helios",
-            "stars": 2138,
+            "stars": 2141,
             "topics": [
               "acceleration",
               "diffusion",
@@ -1829,7 +1829,7 @@
             "open_issues": 40,
             "owner": "Picsart-AI-Research",
             "repo": "StreamingT2V",
-            "stars": 1628,
+            "stars": 1629,
             "topics": [
               "long-video-generation"
             ]
@@ -1852,7 +1852,7 @@
             "open_issues": 37,
             "owner": "sczhou",
             "repo": "Upscale-A-Video",
-            "stars": 1472,
+            "stars": 1473,
             "topics": [
               "aigc-enhancement",
               "deflicker",
@@ -1952,7 +1952,7 @@
             "id": 1144211118,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T05:39:25Z",
+            "last_commit": "2026-09-09T05:44:55Z",
             "open_issues": 32,
             "owner": "OpenMOSS",
             "repo": "MOVA",
@@ -2497,7 +2497,7 @@
             "open_issues": 5,
             "owner": "robbyant-research",
             "repo": "AniDoc",
-            "stars": 572,
+            "stars": 573,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -2667,7 +2667,7 @@
             "open_issues": 17,
             "owner": "researchmm",
             "repo": "MM-Diffusion",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "audio-generation",
               "content-creation",
@@ -3030,7 +3030,7 @@
             "open_issues": 9,
             "owner": "JIA-Lab-research",
             "repo": "Jenga",
-            "stars": 288,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -3170,7 +3170,7 @@
             "open_issues": 2,
             "owner": "SOTAMak1r",
             "repo": "VINO-code",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "image-editing",
               "image-generation",
@@ -4170,10 +4170,10 @@
             "language": "Cuda",
             "license": "Apache-2.0",
             "last_commit": "2026-01-17T17:43:28Z",
-            "open_issues": 212,
+            "open_issues": 213,
             "owner": "thu-ml",
             "repo": "SageAttention",
-            "stars": 3710,
+            "stars": 3713,
             "topics": [
               "attention",
               "cuda",
@@ -4204,10 +4204,10 @@
             "language": "Cuda",
             "license": "Apache-2.0",
             "last_commit": "2026-01-17T17:43:28Z",
-            "open_issues": 212,
+            "open_issues": 213,
             "owner": "thu-ml",
             "repo": "SageAttention",
-            "stars": 3710,
+            "stars": 3713,
             "topics": [
               "attention",
               "cuda",
@@ -4241,7 +4241,7 @@
             "open_issues": 64,
             "owner": "thu-ml",
             "repo": "SpargeAttn",
-            "stars": 1046,
+            "stars": 1047,
             "topics": [
               "ai-infra",
               "attention",
@@ -4301,7 +4301,7 @@
             "open_issues": 7,
             "owner": "AdaCache-DiT",
             "repo": "AdaCache",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "caching",
               "content-adaptive",
@@ -4367,7 +4367,7 @@
             "open_issues": 289,
             "owner": "KlingAIResearch",
             "repo": "LivePortrait",
-            "stars": 19022,
+            "stars": 19027,
             "topics": [
               "face-animation",
               "image-animation",
@@ -4393,7 +4393,7 @@
             "open_issues": 83,
             "owner": "HumanAIGC",
             "repo": "AnimateAnyone",
-            "stars": 14784,
+            "stars": 14783,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -4439,7 +4439,7 @@
             "open_issues": 72,
             "owner": "KlingAIResearch",
             "repo": "ReCamMaster",
-            "stars": 1860,
+            "stars": 1862,
             "topics": [
               "4d",
               "aigc",
@@ -4533,7 +4533,7 @@
             "open_issues": 11,
             "owner": "alibaba",
             "repo": "Tora",
-            "stars": 1241,
+            "stars": 1242,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -4706,7 +4706,7 @@
             "open_issues": 21,
             "owner": "KlingAIResearch",
             "repo": "SynCamMaster",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "video-generation"
             ]
@@ -4865,7 +4865,7 @@
             "open_issues": 6,
             "owner": "bytedance",
             "repo": "Video-As-Prompt",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "controllable-video-generation",
               "in-context-generation",
@@ -4892,7 +4892,7 @@
             "open_issues": 19,
             "owner": "Weifeng-Chen",
             "repo": "control-a-video",
-            "stars": 403,
+            "stars": 404,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -5459,7 +5459,7 @@
             "open_issues": 1,
             "owner": "HyeonHo99",
             "repo": "Reangle-Video",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -5998,7 +5998,7 @@
             "open_issues": 11,
             "owner": "alibaba",
             "repo": "Tora",
-            "stars": 1241,
+            "stars": 1242,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -6489,7 +6489,7 @@
             "open_issues": 21,
             "owner": "HKUDS",
             "repo": "VideoRAG",
-            "stars": 3356,
+            "stars": 3359,
             "topics": [
               "large-language-models",
               "llms",
@@ -6517,7 +6517,7 @@
             "open_issues": 41,
             "owner": "vita-epfl",
             "repo": "Stable-Video-Infinity",
-            "stars": 2568,
+            "stars": 2569,
             "topics": [
               "audio-driven-talking-face",
               "dance-generation",
@@ -6544,7 +6544,7 @@
             "open_issues": 8,
             "owner": "test-time-training",
             "repo": "ttt-video-dit",
-            "stars": 2452,
+            "stars": 2451,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -6746,7 +6746,7 @@
             "open_issues": 10,
             "owner": "donahowe",
             "repo": "AutoStudio",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "image-generation",
               "multi-turn-dialogue",
@@ -7026,7 +7026,7 @@
             "open_issues": 6,
             "owner": "donahowe",
             "repo": "TheaterGen",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "image-generation"
             ]
@@ -7314,7 +7314,7 @@
             "open_issues": 1,
             "owner": "stevenlsw",
             "repo": "physgen",
-            "stars": 353,
+            "stars": 352,
             "topics": [
               "diffusion-models",
               "eccv2024",
@@ -7407,7 +7407,7 @@
             "open_issues": 8,
             "owner": "OpenGVLab",
             "repo": "PhyGenBench",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -7754,7 +7754,7 @@
             "open_issues": 21,
             "owner": "EzioBy",
             "repo": "Ditto",
-            "stars": 628,
+            "stars": 629,
             "topics": [
               "diffusion-models",
               "synthetic-data",
@@ -7779,7 +7779,7 @@
             "open_issues": 11,
             "owner": "zibojia",
             "repo": "MiniMax-Remover",
-            "stars": 601,
+            "stars": 602,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -7998,6 +7998,30 @@
         },
         {
           "node_type": "item",
+          "title": "Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance",
+          "description": "(Mar., 2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A unified and fully open-source framework for instruction-guided and reference-guided video editing using natural language. ",
+            "homepage": "https://showlab.github.io/Kiwi-Edit/",
+            "id": 1170699849,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-05-13T07:44:04Z",
+            "open_issues": 15,
+            "owner": "showlab",
+            "repo": "Kiwi-Edit",
+            "stars": 322,
+            "topics": [
+              "video-editing",
+              "video-generation"
+            ]
+          },
+          "first_seen": "2026-08-28T18:52:45.526Z"
+        },
+        {
+          "node_type": "item",
           "title": "Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts",
           "description": "(May, 2023)",
           "children": [],
@@ -8014,30 +8038,6 @@
             "repo": "Make-A-Protagonist",
             "stars": 322,
             "topics": []
-          },
-          "first_seen": "2026-08-28T18:52:45.526Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance",
-          "description": "(Mar., 2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A unified and fully open-source framework for instruction-guided and reference-guided video editing using natural language. ",
-            "homepage": "https://showlab.github.io/Kiwi-Edit/",
-            "id": 1170699849,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-05-13T07:44:04Z",
-            "open_issues": 15,
-            "owner": "showlab",
-            "repo": "Kiwi-Edit",
-            "stars": 321,
-            "topics": [
-              "video-editing",
-              "video-generation"
-            ]
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
         },
@@ -8177,7 +8177,7 @@
             "open_issues": 3,
             "owner": "knightyxp",
             "repo": "VideoCoF",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "diffusion-models",
               "long-video-editing",
@@ -8786,7 +8786,7 @@
             "open_issues": 119,
             "owner": "antgroup",
             "repo": "echomimic",
-            "stars": 4298,
+            "stars": 4299,
             "topics": [
               "aaai2025",
               "audio-driven-portrait-animations",
@@ -8814,7 +8814,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4095,
+            "stars": 4096,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -9113,7 +9113,7 @@
             "open_issues": 13,
             "owner": "JeremyCJM",
             "repo": "DiffSHEG",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "cvpr24",
               "diffusion-models",
@@ -9318,7 +9318,7 @@
             "open_issues": 102,
             "owner": "huggingface",
             "repo": "speech-to-speech",
-            "stars": 13094,
+            "stars": 13110,
             "topics": [
               "ai",
               "assistant",
@@ -9370,7 +9370,7 @@
             "open_issues": 12,
             "owner": "hkchengrex",
             "repo": "MMAudio",
-            "stars": 2267,
+            "stars": 2268,
             "topics": [
               "audio",
               "audio-synthesis",
@@ -9762,7 +9762,7 @@
             "open_issues": 18,
             "owner": "antonibigata",
             "repo": "keysync",
-            "stars": 400,
+            "stars": 401,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -9997,7 +9997,7 @@
             "open_issues": 3,
             "owner": "JeffWang987",
             "repo": "EgoVid",
-            "stars": 144,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -10140,7 +10140,7 @@
             "open_issues": 340,
             "owner": "Stability-AI",
             "repo": "generative-models",
-            "stars": 27282,
+            "stars": 27281,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -10182,7 +10182,7 @@
             "open_issues": 58,
             "owner": "vye16",
             "repo": "shape-of-motion",
-            "stars": 1305,
+            "stars": 1306,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:45.526Z"
@@ -10751,7 +10751,7 @@
             "open_issues": 13,
             "owner": "ByteDance-Seed",
             "repo": "VideoWorld",
-            "stars": 799,
+            "stars": 800,
             "topics": [
               "research"
             ]
@@ -10828,7 +10828,7 @@
             "open_issues": 11,
             "owner": "StonyBrookNLP",
             "repo": "appworld",
-            "stars": 505,
+            "stars": 508,
             "topics": [
               "acl-2024",
               "ai-agents",
@@ -11306,7 +11306,7 @@
             "open_issues": 2,
             "owner": "showlab",
             "repo": "Code2Video",
-            "stars": 2019,
+            "stars": 2021,
             "topics": [
               "coding",
               "education",
@@ -11321,7 +11321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:32:10.519Z",
+    "last_updated": "2026-09-09T11:37:24.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent diffusion models for video generation, editing, and various other applications.",
@@ -11333,7 +11333,7 @@
       "open_issues": 5,
       "owner": "showlab",
       "repo": "Awesome-Video-Diffusion",
-      "stars": 5773,
+      "stars": 5774,
       "topics": [
         "awesome",
         "diffusion-models",
