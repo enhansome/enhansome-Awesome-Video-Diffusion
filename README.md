@@ -54,32 +54,32 @@ A curated list of recent diffusion models for video generation, editing, restora
 ### Open-source Toolboxes and Foundation Models
 
 * [Diffusers (Text-to-video synthesis)](https://huggingface.co/docs/diffusers/main/en/api/pipelines/text_to_video#texttovideo-synthesis)\
-  [![Star](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social\&label=Star)](https://github.com/huggingface/diffusers) ⭐ 34,499 | 🐛 1,414 | 🌐 Python | 📅 2026-09-12
+  [![Star](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social\&label=Star)](https://github.com/huggingface/diffusers) ⭐ 34,504 | 🐛 1,409 | 🌐 Python | 📅 2026-09-12
 
-* [Open-Sora](https://github.com/hpcaitech/Open-Sora) ⭐ 29,776 | 🐛 13 | 🌐 Python | 📅 2026-04-09\
-  [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social\&label=Star)](https://github.com/hpcaitech/Open-Sora) ⭐ 29,776 | 🐛 13 | 🌐 Python | 📅 2026-04-09
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/hpcaitech/Open-Sora/blob/main/docs/zh_CN/README.md) ⭐ 29,776 | 🐛 13 | 🌐 Python | 📅 2026-04-09
+* [Open-Sora](https://github.com/hpcaitech/Open-Sora) ⭐ 29,780 | 🐛 13 | 🌐 Python | 📅 2026-04-09\
+  [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social\&label=Star)](https://github.com/hpcaitech/Open-Sora) ⭐ 29,780 | 🐛 13 | 🌐 Python | 📅 2026-04-09
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/hpcaitech/Open-Sora/blob/main/docs/zh_CN/README.md) ⭐ 29,780 | 🐛 13 | 🌐 Python | 📅 2026-04-09
 
 * [Stable Video Diffusion](https://github.com/Stability-AI/generative-models) ⭐ 27,285 | 🐛 339 | 🌐 Python | 📅 2025-12-16\
   [![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social\&label=Star)](https://github.com/Stability-AI/generative-models) ⭐ 27,285 | 🐛 339 | 🌐 Python | 📅 2025-12-16
   [![Website](https://img.shields.io/badge/Website-9cf)](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
 
-* [Wan-Video](https://github.com/Wan-Video/Wan2.1) ⭐ 16,958 | 🐛 379 | 🌐 Python | 📅 2026-03-05\
-  [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social\&label=Star)](https://github.com/Wan-Video/Wan2.1) ⭐ 16,958 | 🐛 379 | 🌐 Python | 📅 2026-03-05
+* [Wan-Video](https://github.com/Wan-Video/Wan2.1) ⭐ 16,965 | 🐛 379 | 🌐 Python | 📅 2026-03-05\
+  [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social\&label=Star)](https://github.com/Wan-Video/Wan2.1) ⭐ 16,965 | 🐛 379 | 🌐 Python | 📅 2026-03-05
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wanxai.com/)
 
-* [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) ⭐ 13,088 | 🐛 561 | 🌐 Python | 📅 2026-09-11\
-  [![Star](https://img.shields.io/github/stars/modelscope/DiffSynth-Studio.svg?style=social\&label=Star)](https://github.com/modelscope/DiffSynth-Studio) ⭐ 13,088 | 🐛 561 | 🌐 Python | 📅 2026-09-11
+* [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) ⭐ 13,089 | 🐛 561 | 🌐 Python | 📅 2026-09-11\
+  [![Star](https://img.shields.io/github/stars/modelscope/DiffSynth-Studio.svg?style=social\&label=Star)](https://github.com/modelscope/DiffSynth-Studio) ⭐ 13,089 | 🐛 561 | 🌐 Python | 📅 2026-09-11
 
 * [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/abs/2412.03603)\
-  [![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social\&label=Star)](https://github.com/Tencent/HunyuanVideo) ⭐ 12,517 | 🐛 185 | 🌐 Python | 📅 2026-06-29
+  [![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social\&label=Star)](https://github.com/Tencent/HunyuanVideo) ⭐ 12,521 | 🐛 185 | 🌐 Python | 📅 2026-06-29
 
 * [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) ⭐ 12,206 | 🐛 267 | 🌐 Python | 📅 2026-03-08\
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social\&label=Star)](https://github.com/PKU-YuanGroup/Open-Sora-Plan) ⭐ 12,206 | 🐛 267 | 🌐 Python | 📅 2026-03-08
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/PKU-YuanGroup/Open-Sora-Plan/blob/main/docs/Report-v1.0.0.md) ⭐ 12,206 | 🐛 267 | 🌐 Python | 📅 2026-03-08
 
-* [Cosmos](https://github.com/NVIDIA/Cosmos) ⭐ 11,805 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2026-09-12\
-  [![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos.svg?style=social\&label=Star)](https://github.com/NVIDIA/Cosmos) ⭐ 11,805 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2026-09-12
+* [Cosmos](https://github.com/NVIDIA/Cosmos) ⭐ 11,810 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2026-09-12\
+  [![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos.svg?style=social\&label=Star)](https://github.com/NVIDIA/Cosmos) ⭐ 11,810 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2026-09-12
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03575)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos1/)
 
@@ -87,20 +87,20 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social\&label=Star)](https://github.com/Lightricks/LTX-Video) ⭐ 10,947 | 🐛 99 | 🌐 Python | 📅 2026-01-05
 
 * [ModelScope (Text-to-video synthesis)](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)\
-  [![Star](https://img.shields.io/github/stars/modelscope/modelscope.svg?style=social\&label=Star)](https://github.com/modelscope/modelscope) ⭐ 9,128 | 🐛 18 | 🌐 Python | 📅 2026-09-10
+  [![Star](https://img.shields.io/github/stars/modelscope/modelscope.svg?style=social\&label=Star)](https://github.com/modelscope/modelscope) ⭐ 9,129 | 🐛 16 | 🌐 Python | 📅 2026-09-10
 
-* [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) ⭐ 7,522 | 🐛 352 | 🌐 Python | 📅 2026-01-29\
-  [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2.svg?style=social\&label=Star)](https://github.com/SkyworkAI/SkyReels-V2) ⭐ 7,522 | 🐛 352 | 🌐 Python | 📅 2026-01-29
+* [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) ⭐ 7,523 | 🐛 351 | 🌐 Python | 📅 2026-01-29\
+  [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2.svg?style=social\&label=Star)](https://github.com/SkyworkAI/SkyReels-V2) ⭐ 7,523 | 🐛 351 | 🌐 Python | 📅 2026-01-29
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.skyreels.ai/)
 
 * [VideoCrafter: A Toolkit for Text-to-Video Generation and Editing](https://github.com/VideoCrafter/VideoCrafter) ⭐ 5,075 | 🐛 74 | 🌐 Python | 📅 2026-01-09\
   [![Star](https://img.shields.io/github/stars/VideoCrafter/VideoCrafter.svg?style=social\&label=Star)](https://github.com/VideoCrafter/VideoCrafter) ⭐ 5,075 | 🐛 74 | 🌐 Python | 📅 2026-01-09
 
-* [FastVideo: A unified inference and post-training framework for accelerated video generation](https://github.com/hao-ai-lab/FastVideo) ⭐ 4,382 | 🐛 183 | 🌐 Python | 📅 2026-09-08
-  [![Star](https://img.shields.io/github/stars/hao-ai-lab/FastVideo.svg?style=social\&label=Star)](https://github.com/hao-ai-lab/FastVideo) ⭐ 4,382 | 🐛 183 | 🌐 Python | 📅 2026-09-08
+* [FastVideo: A unified inference and post-training framework for accelerated video generation](https://github.com/hao-ai-lab/FastVideo) ⭐ 4,385 | 🐛 180 | 🌐 Python | 📅 2026-09-13
+  [![Star](https://img.shields.io/github/stars/hao-ai-lab/FastVideo.svg?style=social\&label=Star)](https://github.com/hao-ai-lab/FastVideo) ⭐ 4,385 | 🐛 180 | 🌐 Python | 📅 2026-09-13
 
 * [Mochi 1](https://www.genmo.ai/blog)\
-  [![Star](https://img.shields.io/github/stars/genmoai/mochi.svg?style=social\&label=Star)](https://github.com/genmoai/mochi) ⭐ 3,725 | 🐛 59 | 🌐 Python | 📅 2025-11-14
+  [![Star](https://img.shields.io/github/stars/genmoai/mochi.svg?style=social\&label=Star)](https://github.com/genmoai/mochi) ⭐ 3,724 | 🐛 59 | 🌐 Python | 📅 2025-11-14
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.genmo.ai/blog)
 
 * [Pyramidal Flow Matching for Efficient Video Generative Modeling](https://pyramid-flow.github.io/)\
@@ -112,19 +112,19 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.10248)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yuewen.cn/videos)
 
-* [LightX2V: Light Video Generation Inference Framework](https://github.com/ModelTC/lightx2v) ⭐ 2,804 | 🐛 201 | 🌐 Python | 📅 2026-09-11\
-  [![Star](https://img.shields.io/github/stars/ModelTC/lightx2v.svg?style=social\&label=Star)](https://github.com/ModelTC/lightx2v) ⭐ 2,804 | 🐛 201 | 🌐 Python | 📅 2026-09-11
+* [LightX2V: Light Video Generation Inference Framework](https://github.com/ModelTC/lightx2v) ⭐ 2,806 | 🐛 201 | 🌐 Python | 📅 2026-09-11\
+  [![Star](https://img.shields.io/github/stars/ModelTC/lightx2v.svg?style=social\&label=Star)](https://github.com/ModelTC/lightx2v) ⭐ 2,806 | 🐛 201 | 🌐 Python | 📅 2026-09-11
 
 * [Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379)\
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social\&label=Star)](https://github.com/PKU-YuanGroup/Helios) ⭐ 2,146 | 🐛 42 | 🌐 Python | 📅 2026-08-24
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.04379)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/Helios-Page/)
 
-* [text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab) ⭐ 1,513 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-03-28\
-  [![Star](https://img.shields.io/github/stars/camenduru/text-to-video-synthesis-colab.svg?style=social\&label=Star)](https://github.com/camenduru/text-to-video-synthesis-colab) ⭐ 1,513 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-03-28
+* [text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab) ⭐ 1,512 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-03-28\
+  [![Star](https://img.shields.io/github/stars/camenduru/text-to-video-synthesis-colab.svg?style=social\&label=Star)](https://github.com/camenduru/text-to-video-synthesis-colab) ⭐ 1,512 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-03-28
 
-* [Wunjo CE (Video Generation and Editing)](https://github.com/wladradchenko/wunjo.wladradchenko.ru) ⭐ 1,169 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-25\
-  [![Star](https://img.shields.io/github/stars/wladradchenko/wunjo.wladradchenko.ru.svg?style=social\&label=Star)](https://github.com/wladradchenko/wunjo.wladradchenko.ru) ⭐ 1,169 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-25
+* [Wunjo CE (Video Generation and Editing)](https://github.com/wladradchenko/wunjo.wladradchenko.ru) ⭐ 1,169 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-25\
+  [![Star](https://img.shields.io/github/stars/wladradchenko/wunjo.wladradchenko.ru.svg?style=social\&label=Star)](https://github.com/wladradchenko/wunjo.wladradchenko.ru) ⭐ 1,169 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-25
 
 * [Show-1](https://github.com/showlab/Show-1) ⭐ 1,147 | 🐛 16 | 🌐 Python | 📅 2025-09-13\
   [![Star](https://img.shields.io/github/stars/showlab/Show-1.svg?style=social\&label=Star)](https://github.com/showlab/Show-1) ⭐ 1,147 | 🐛 16 | 🌐 Python | 📅 2025-09-13
@@ -150,8 +150,8 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.13720)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.youtube.com/playlist?list=PL86eLlsPNfyi27GSizYjinpYxp7gEl5K8)
 
-* [Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-08-20\
-  [![Star](https://img.shields.io/github/stars/WayneJin0918/Omni-Rewriter.svg?style=social\&label=Star)](https://github.com/WayneJin0918/Omni-Rewriter) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-08-20
+* [Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter) ⭐ 86 | 🐛 0 | 🌐 Python | 📅 2026-08-20\
+  [![Star](https://img.shields.io/github/stars/WayneJin0918/Omni-Rewriter.svg?style=social\&label=Star)](https://github.com/WayneJin0918/Omni-Rewriter) ⭐ 86 | 🐛 0 | 🌐 Python | 📅 2026-08-20
   [![Website](https://img.shields.io/badge/Website-9cf)](https://waynejin0918.github.io/Omni-Rewriter/)\
   Open agentic prompt-expansion harness for image/video generation (schema → validate → bounded repair → dialect render; H3/Seedance/Seedream/Qwen-Image). Expand ≠ generate.
 
@@ -171,12 +171,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 ### Evaluation Benchmarks and Metrics
 
 * [VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness](https://arxiv.org/abs/2503.21755) (Mar., 2025)\
-  [![Star](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social\&label=Star)](https://github.com/Vchitect/VBench) ⭐ 1,770 | 🐛 74 | 🌐 Python | 📅 2026-08-21
+  [![Star](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social\&label=Star)](https://github.com/Vchitect/VBench) ⭐ 1,772 | 🐛 74 | 🌐 Python | 📅 2026-08-21
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21755)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VBench-2.0-project/)
 
 * [VBench: Comprehensive Benchmark Suite for Video Generative Models](https://arxiv.org/abs/2311.17982) (Nov., 2023)\
-  [![Star](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social\&label=Star)](https://github.com/Vchitect/VBench?tab=readme-ov-file) ⭐ 1,770 | 🐛 74 | 🌐 Python | 📅 2026-08-21
+  [![Star](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social\&label=Star)](https://github.com/Vchitect/VBench?tab=readme-ov-file) ⭐ 1,772 | 🐛 74 | 🌐 Python | 📅 2026-08-21
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17982)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VBench-project/)
 
@@ -301,7 +301,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 * [Riffkit](https://riffkit.ai/)\
   [![Website](https://img.shields.io/badge/Website-9cf)](https://riffkit.ai/)
-  [![GitHub](https://img.shields.io/badge/GitHub-riffkit%2Fskill-181717?logo=github)](https://github.com/riffkit/skill) ⭐ 7 | 🐛 0 | 📅 2026-08-25
+  [![GitHub](https://img.shields.io/badge/GitHub-riffkit%2Fskill-181717?logo=github)](https://github.com/riffkit/skill) ⭐ 7 | 🐛 0 | 📅 2026-09-13
 
 * [SEELE TV](https://seele.tv/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://seele.tv/)
@@ -314,16 +314,16 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
 
 * [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/pack.pdf) (Apr., 2025)\
-  [![Star](https://img.shields.io/github/stars/lllyasviel/FramePack.svg?style=social\&label=Star)](https://github.com/lllyasviel/FramePack) ⭐ 17,251 | 🐛 489 | 🌐 Python | 📅 2025-10-16
+  [![Star](https://img.shields.io/github/stars/lllyasviel/FramePack.svg?style=social\&label=Star)](https://github.com/lllyasviel/FramePack) ⭐ 17,253 | 🐛 489 | 🌐 Python | 📅 2025-10-16
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.08685)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://lllyasviel.github.io/frame_pack_gitpage/)
 
-* [CogVideoX: Text-to-video generation](https://github.com/THUDM/CogVideo/blob/main/resources/CogVideoX.pdf) ⭐ 13,011 | 🐛 118 | 🌐 Python | 📅 2025-11-04 (Aug., 2024)\
-  [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social\&label=Star)](https://github.com/THUDM/CogVideo) ⭐ 13,011 | 🐛 118 | 🌐 Python | 📅 2025-11-04
-  [![paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://github.com/THUDM/CogVideo/blob/main/resources/CogVideoX.pdf) ⭐ 13,011 | 🐛 118 | 🌐 Python | 📅 2025-11-04
+* [CogVideoX: Text-to-video generation](https://github.com/THUDM/CogVideo/blob/main/resources/CogVideoX.pdf) ⭐ 13,013 | 🐛 118 | 🌐 Python | 📅 2025-11-04 (Aug., 2024)\
+  [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social\&label=Star)](https://github.com/THUDM/CogVideo) ⭐ 13,013 | 🐛 118 | 🌐 Python | 📅 2025-11-04
+  [![paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://github.com/THUDM/CogVideo/blob/main/resources/CogVideoX.pdf) ⭐ 13,013 | 🐛 118 | 🌐 Python | 📅 2025-11-04
 
 * [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](https://arxiv.org/abs/2307.04725) (Jul., 2023)\
-  [![Star](https://img.shields.io/github/stars/guoyww/animatediff.svg?style=social\&label=Star)](https://github.com/guoyww/animatediff/) ⭐ 12,240 | 🐛 319 | 🌐 Python | 📅 2024-07-31
+  [![Star](https://img.shields.io/github/stars/guoyww/animatediff.svg?style=social\&label=Star)](https://github.com/guoyww/animatediff/) ⭐ 12,241 | 🐛 319 | 🌐 Python | 📅 2024-07-31
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.04725)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://animatediff.github.io/)
 
@@ -333,12 +333,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/magicanimate)
 
 * [SkyReels-V2: Infinite-length Film Generative Model](https://arxiv.org/abs/2504.13074) (Apr., 2025)\
-  [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2.svg?style=social\&label=Star)](https://github.com/SkyworkAI/SkyReels-V2) ⭐ 7,522 | 🐛 352 | 🌐 Python | 📅 2026-01-29
+  [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2.svg?style=social\&label=Star)](https://github.com/SkyworkAI/SkyReels-V2) ⭐ 7,523 | 🐛 351 | 🌐 Python | 📅 2026-01-29
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13074)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.skyreels.ai/home?utm_campaign=github_SkyReels_V2)
 
 * [StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation](https://arxiv.org/abs/2405.01434) (May, 2024)\
-  [![Star](https://img.shields.io/github/stars/HVision-NKU/StoryDiffusion.svg?style=social\&label=Star)](https://github.com/HVision-NKU/StoryDiffusion) ⭐ 6,456 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-09-26
+  [![Star](https://img.shields.io/github/stars/HVision-NKU/StoryDiffusion.svg?style=social\&label=Star)](https://github.com/HVision-NKU/StoryDiffusion) ⭐ 6,457 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-09-26
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.01434)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://storydiffusion.github.io/)
 
@@ -363,7 +363,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ali-vilab.github.io/VACE-Page/)
 
 * [MAGI-1: Autoregressive Video Generation at Scale](https://static.magi.world/static/files/MAGI_1.pdf) (Apr., 2025)\
-  [![Star](https://img.shields.io/github/stars/SandAI-org/Magi-1.svg?style=social\&label=Star)](https://github.com/SandAI-org/Magi-1) ⭐ 3,784 | 🐛 46 | 🌐 Python | 📅 2026-06-17
+  [![Star](https://img.shields.io/github/stars/SandAI-org/Magi-1.svg?style=social\&label=Star)](https://github.com/SandAI-org/Magi-1) ⭐ 3,785 | 🐛 46 | 🌐 Python | 📅 2026-06-17
   [![PDF](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://static.magi.world/static/files/MAGI_1.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](SandAI-org/Magi-1)
 
@@ -383,12 +383,12 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://higen-t2v.github.io/)
 
 * [DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors](https://arxiv.org/abs/2310.12190) (Oct., 2023)\
-  [![Star](https://img.shields.io/github/stars/Doubiiu/DynamiCrafter.svg?style=social\&label=Star)](https://github.com/Doubiiu/DynamiCrafter) ⭐ 3,006 | 🐛 91 | 🌐 Python | 📅 2024-09-08
+  [![Star](https://img.shields.io/github/stars/Doubiiu/DynamiCrafter.svg?style=social\&label=Star)](https://github.com/Doubiiu/DynamiCrafter) ⭐ 3,005 | 🐛 91 | 🌐 Python | 📅 2024-09-08
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.12190)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://doubiiu.github.io/projects/DynamiCrafter/)
 
 * [MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance](https://arxiv.org/abs/2406.19680) (Jul., 2024)\
-  [![Star](https://img.shields.io/github/stars/Tencent/MimicMotion.svg?style=social\&label=Star)](https://github.com/Tencent/MimicMotion) ⭐ 2,655 | 🐛 93 | 🌐 Python | 📅 2025-11-18
+  [![Star](https://img.shields.io/github/stars/Tencent/MimicMotion.svg?style=social\&label=Star)](https://github.com/Tencent/MimicMotion) ⭐ 2,657 | 🐛 93 | 🌐 Python | 📅 2025-11-18
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19680)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tencent.github.io/MimicMotion/)
 
@@ -451,7 +451,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/)
 
 * [MOVA: Towards Scalable and Synchronized Video-Audio Generation](https://arxiv.org/abs/2602.08794) (Feb., 2026)
-  [![Star](https://img.shields.io/github/stars/OpenMOSS/MOVA.svg?style=social\&label=Star)](https://github.com/OpenMOSS/MOVA) ⭐ 1,111 | 🐛 32 | 🌐 Python | 📅 2026-09-12
+  [![Star](https://img.shields.io/github/stars/OpenMOSS/MOVA.svg?style=social\&label=Star)](https://github.com/OpenMOSS/MOVA) ⭐ 1,111 | 🐛 32 | 🌐 Python | 📅 2026-09-13
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.08794)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mosi.cn/models/mova)
 
@@ -491,7 +491,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/SEINE-project/)
 
 * [Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](https://arxiv.org/abs/2602.02214) (Feb., 2026)\
-  [![Star](https://img.shields.io/github/stars/thu-ml/Causal-Forcing.svg?style=social\&label=Star)](https://github.com/thu-ml/Causal-Forcing) ⭐ 957 | 🐛 32 | 🌐 Python | 📅 2026-08-28
+  [![Star](https://img.shields.io/github/stars/thu-ml/Causal-Forcing.svg?style=social\&label=Star)](https://github.com/thu-ml/Causal-Forcing) ⭐ 959 | 🐛 32 | 🌐 Python | 📅 2026-08-28
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.02214)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://thu-ml.github.io/CausalForcing.github.io/)
 
@@ -1199,11 +1199,11 @@ A curated list of recent diffusion models for video generation, editing, restora
 ### Efficient Video Generation
 
 * [SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](https://arxiv.org/abs/2411.10958) (Feb., 2025)\
-  [![Star](https://img.shields.io/github/stars/thu-ml/SageAttention)](https://github.com/thu-ml/SageAttention) ⭐ 3,723 | 🐛 213 | 🌐 Cuda | 📅 2026-01-17
+  [![Star](https://img.shields.io/github/stars/thu-ml/SageAttention)](https://github.com/thu-ml/SageAttention) ⭐ 3,724 | 🐛 212 | 🌐 Cuda | 📅 2026-01-17
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10958)
 
 * [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367) (Oct., 2024)\
-  [![Star](https://img.shields.io/github/stars/thu-ml/SageAttention)](https://github.com/thu-ml/SageAttention) ⭐ 3,723 | 🐛 213 | 🌐 Cuda | 📅 2026-01-17
+  [![Star](https://img.shields.io/github/stars/thu-ml/SageAttention)](https://github.com/thu-ml/SageAttention) ⭐ 3,724 | 🐛 212 | 🌐 Cuda | 📅 2026-01-17
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02367)
 
 * [SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](https://arxiv.org/abs/2502.18137) (Feb., 2025)\
@@ -1258,12 +1258,12 @@ A curated list of recent diffusion models for video generation, editing, restora
 ### Controllable Video Generation
 
 * [LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control](https://arxiv.org/abs/2407.03168) (Jul., 2024)\
-  [![Star](https://img.shields.io/github/stars/KwaiVGI/LivePortrait.svg?style=social\&label=Star)](https://github.com/KwaiVGI/LivePortrait) ⭐ 19,037 | 🐛 289 | 🌐 Python | 📅 2026-06-01
+  [![Star](https://img.shields.io/github/stars/KwaiVGI/LivePortrait.svg?style=social\&label=Star)](https://github.com/KwaiVGI/LivePortrait) ⭐ 19,040 | 🐛 289 | 🌐 Python | 📅 2026-06-01
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.03168)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/KwaiVGI/LivePortrait) ⭐ 19,037 | 🐛 289 | 🌐 Python | 📅 2026-06-01
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/KwaiVGI/LivePortrait) ⭐ 19,040 | 🐛 289 | 🌐 Python | 📅 2026-06-01
 
 * [Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](https://arxiv.org/abs/2311.17117) (Nov., 2023)\
-  [![Star](https://img.shields.io/github/stars/HumanAIGC/AnimateAnyone.svg?style=social\&label=Star)](https://github.com/HumanAIGC/AnimateAnyone) ⭐ 14,783 | 🐛 83 | 📅 2025-09-20
+  [![Star](https://img.shields.io/github/stars/HumanAIGC/AnimateAnyone.svg?style=social\&label=Star)](https://github.com/HumanAIGC/AnimateAnyone) ⭐ 14,782 | 🐛 83 | 📅 2025-09-20
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17117)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://humanaigc.github.io/animate-anyone/)
 
@@ -1413,7 +1413,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yu-shaonian.github.io/Animate_Anything/)
 
 * [MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance](https://arxiv.org/abs/2503.16421) (Mar., 2025)\
-  [![Star](https://img.shields.io/github/stars/quanhaol/MagicMotion.svg?style=social\&label=Star)](https://github.com/quanhaol/MagicMotion) ⭐ 187 | 🐛 7 | 🌐 Python | 📅 2026-02-11
+  [![Star](https://img.shields.io/github/stars/quanhaol/MagicMotion.svg?style=social\&label=Star)](https://github.com/quanhaol/MagicMotion) ⭐ 188 | 🐛 7 | 🌐 Python | 📅 2026-02-11
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.16421)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://quanhaol.github.io/magicmotion-site/)
 
@@ -1814,7 +1814,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/MotionDirector/)
 
 * [MotionClone: Training-Free Motion Cloning for Controllable Video Generation](https://arxiv.org/abs/2406.05338) (Jun., 2024)\
-  [![Star](https://img.shields.io/github/stars/Bujiazi/MotionClone.svg?style=social\&label=Star)](https://github.com/Bujiazi/MotionClone/) ⭐ 518 | 🐛 4 | 🌐 Python | 📅 2025-06-17
+  [![Star](https://img.shields.io/github/stars/Bujiazi/MotionClone.svg?style=social\&label=Star)](https://github.com/Bujiazi/MotionClone/) ⭐ 519 | 🐛 4 | 🌐 Python | 📅 2025-06-17
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.05338)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://bujiazi.github.io/motionclone.github.io/)
 
@@ -1966,7 +1966,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 ### Long Video / Film Generation
 
 * [VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos](https://arxiv.org/abs/2502.01549) (Feb., 2025)\
-  [![Star](https://img.shields.io/github/stars/HKUDS/VideoRAG.svg?style=social\&label=Star)](https://github.com/HKUDS/VideoRAG) ⭐ 3,364 | 🐛 21 | 🌐 Python | 📅 2026-03-18
+  [![Star](https://img.shields.io/github/stars/HKUDS/VideoRAG.svg?style=social\&label=Star)](https://github.com/HKUDS/VideoRAG) ⭐ 3,365 | 🐛 21 | 🌐 Python | 📅 2026-03-18
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01549)
 
 * [Stable Video Infinity: Infinite-Length Video Generation with Error Recycling](https://arxiv.org/abs/2510.09212) (Oct., 2025)\
@@ -2226,7 +2226,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://physdreamer.github.io/)
 
 * [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](https://arxiv.org/abs/2409.18964) (Oct, 2024)\
-  [![Star](https://img.shields.io/github/stars/stevenlsw/physgen.svg?style=social\&label=Star)](https://github.com/stevenlsw/physgen) ⭐ 352 | 🐛 1 | 🌐 Python | 📅 2024-10-24
+  [![Star](https://img.shields.io/github/stars/stevenlsw/physgen.svg?style=social\&label=Star)](https://github.com/stevenlsw/physgen) ⭐ 353 | 🐛 1 | 🌐 Python | 📅 2024-10-24
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18964)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://stevenlsw.github.io/physgen/)
 
@@ -2338,7 +2338,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://fate-zero-edit.github.io/)
 
 * [AnyV2V: A Tuning-Free Framework For Any Video-to-Video Editing Tasks](https://arxiv.org/abs/2403.14468) (Mar., 2024)\
-  [![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/AnyV2V.svg?style=social\&label=Star)](https://github.com/TIGER-AI-Lab/AnyV2V) ⭐ 656 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-29
+  [![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/AnyV2V.svg?style=social\&label=Star)](https://github.com/TIGER-AI-Lab/AnyV2V) ⭐ 657 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-10-29
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.14468)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tiger-ai-lab.github.io/AnyV2V/)
 
@@ -2521,7 +2521,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://chen-yingjie.github.io/projects/Perception-as-Control/)
 
 * [MotionV2V: Editing Motion in a Video](https://arxiv.org/abs/2511.20640) (Nov., 2025)
-  [![Star](https://img.shields.io/github/stars/RyannDaGreat/MotionV2V.svg?style=social\&label=Star)](https://github.com/RyannDaGreat/MotionV2V) ⭐ 57 | 🐛 2 | 🌐 HTML | 📅 2026-03-05
+  [![Star](https://img.shields.io/github/stars/RyannDaGreat/MotionV2V.svg?style=social\&label=Star)](https://github.com/RyannDaGreat/MotionV2V) ⭐ 58 | 🐛 2 | 🌐 HTML | 📅 2026-03-05
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.20640)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ryanndagreat.github.io/MotionV2V/)
 
@@ -2726,7 +2726,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://chenxin.tech/mld/)
 
 * [AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation](https://arxiv.org/pdf/2411.17383) (Nov., 2024)\
-  [![Star](https://img.shields.io/github/stars/cangcz/AnchorCrafter.svg?style=social)](https://github.com/cangcz/AnchorCrafter) ⭐ 671 | 🐛 2 | 🌐 Python | 📅 2025-11-18
+  [![Star](https://img.shields.io/github/stars/cangcz/AnchorCrafter.svg?style=social)](https://github.com/cangcz/AnchorCrafter) ⭐ 670 | 🐛 2 | 🌐 Python | 📅 2025-11-18
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.17383)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cangcz.github.io/Anchor-Crafter/)
 
@@ -2853,7 +2853,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 ### Video Enhancement and Restoration
 
 * [Enhance-A-Video: Better Generated Video for Free](https://arxiv.org/abs/2502.07508) (Feb., 2025)\
-  [![Star](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/Enhance-A-Video.svg?style=social\&label=Star)](https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video) ⭐ 601 | 🐛 6 | 🌐 Python | 📅 2025-03-17
+  [![Star](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/Enhance-A-Video.svg?style=social\&label=Star)](https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video) ⭐ 606 | 🐛 6 | 🌐 Python | 📅 2025-03-17
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07508)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://oahzxl.github.io/Enhance_A_Video/)
 
@@ -2877,9 +2877,9 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ### Audio Synthesis for Video
 
-* [Speech To Speech: an effort for an open-sourced and modular GPT4-o](https://github.com/huggingface/speech-to-speech) ⭐ 13,169 | 🐛 103 | 🌐 Python | 📅 2026-09-06 (Aug., 2024)\
-  [![Star](https://img.shields.io/github/stars/huggingface/speech-to-speech.svg?style=social\&label=Star)](https://github.com/huggingface/speech-to-speech) ⭐ 13,169 | 🐛 103 | 🌐 Python | 📅 2026-09-06
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/huggingface/speech-to-speech) ⭐ 13,169 | 🐛 103 | 🌐 Python | 📅 2026-09-06
+* [Speech To Speech: an effort for an open-sourced and modular GPT4-o](https://github.com/huggingface/speech-to-speech) ⭐ 13,178 | 🐛 105 | 🌐 Python | 📅 2026-09-06 (Aug., 2024)\
+  [![Star](https://img.shields.io/github/stars/huggingface/speech-to-speech.svg?style=social\&label=Star)](https://github.com/huggingface/speech-to-speech) ⭐ 13,178 | 🐛 105 | 🌐 Python | 📅 2026-09-06
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/huggingface/speech-to-speech) ⭐ 13,178 | 🐛 105 | 🌐 Python | 📅 2026-09-06
 
 * [Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming](https://arxiv.org/abs/2408.16725) (Jul., 2024)\
   [![Star](https://img.shields.io/github/stars/gpt-omni/mini-omni.svg?style=social\&label=Star)](https://github.com/gpt-omni/mini-omni) ⭐ 3,575 | 🐛 40 | 🌐 Python | 📅 2024-11-05
@@ -2887,7 +2887,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/gpt-omni/mini-omni) ⭐ 3,575 | 🐛 40 | 🌐 Python | 📅 2024-11-05
 
 * [Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis](https://arxiv.org/abs/2412.15322) (Dec., 2024)\
-  [![Star](https://img.shields.io/github/stars/hkchengrex/MMAudio.svg?style=social\&label=Star)](https://github.com/hkchengrex/MMAudio) ⭐ 2,268 | 🐛 12 | 🌐 Python | 📅 2026-02-23
+  [![Star](https://img.shields.io/github/stars/hkchengrex/MMAudio.svg?style=social\&label=Star)](https://github.com/hkchengrex/MMAudio) ⭐ 2,267 | 🐛 12 | 🌐 Python | 📅 2026-02-23
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15322)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hkchengrex.com/MMAudio/)
 
@@ -3113,7 +3113,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 ### Reinforcement Learning for Video Generation
 
 * [VIDEOSCORE: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation](https://arxiv.org/pdf/2406.15252) (July, 2024)\
-  [![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/VideoScore.svg?style=social\&label=Star)](https://github.com/TIGER-AI-Lab/VideoScore/) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2025-12-04
+  [![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/VideoScore.svg?style=social\&label=Star)](https://github.com/TIGER-AI-Lab/VideoScore/) ⭐ 126 | 🐛 3 | 🌐 Python | 📅 2025-12-04
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.15252)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tiger-ai-lab.github.io/VideoScore/)
 
@@ -3267,7 +3267,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 * [GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation](https://arxiv.org/abs/2401.04092) (Jan., 2024)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.04092)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://gpteval3d.github.io/)
-  [![Star](https://img.shields.io/github/stars/3DTopia/GPTEval3D.svg?style=social\&label=Star)](https://github.com/3DTopia/GPTEval3D) ⭐ 290 | 🐛 5 | 🌐 Python | 📅 2024-06-12
+  [![Star](https://img.shields.io/github/stars/3DTopia/GPTEval3D.svg?style=social\&label=Star)](https://github.com/3DTopia/GPTEval3D) ⭐ 291 | 🐛 5 | 🌐 Python | 📅 2024-06-12
 
 * [YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals](https://arxiv.org/abs/2406.16273v1) (June, 2024)\
   [![Star](https://img.shields.io/github/stars/YouDream3D/YouDream.svg?style=social\&label=Star)](https://github.com/YouDream3D/YouDream/) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2025-02-09
@@ -3418,7 +3418,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 ### Rendering with Virtual Engine
 
 * [UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI](https://arxiv.org/abs/2412.20977) (Jan., 2025)\
-  [![Star](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym.svg?style=social\&label=Star)](https://github.com/UnrealZoo/unrealzoo-gym) ⭐ 360 | 🐛 13 | 🌐 Python | 📅 2026-09-09
+  [![Star](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym.svg?style=social\&label=Star)](https://github.com/UnrealZoo/unrealzoo-gym) ⭐ 361 | 🐛 13 | 🌐 Python | 📅 2026-09-13
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.20977)
   [![Website](https://img.shields.io/badge/Website-9cf)](http://unrealzoo.site/)
 
@@ -3453,7 +3453,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://aether-world.github.io/#team)
 
 * [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) (Nov., 2024)\
-  [![Star](https://img.shields.io/github/stars/stonybrooknlp/appworld.svg?style=social\&label=Star)](https://github.com/stonybrooknlp/appworld/) ⭐ 510 | 🐛 11 | 🌐 Python | 📅 2026-09-04
+  [![Star](https://img.shields.io/github/stars/stonybrooknlp/appworld.svg?style=social\&label=Star)](https://github.com/stonybrooknlp/appworld/) ⭐ 511 | 🐛 11 | 🌐 Python | 📅 2026-09-04
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.18901)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://appworld.dev/)
 
@@ -3607,7 +3607,7 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Paper2Video/)
 
 * [Code2Video: A Code-centric Paradigm for Educational Video Generation](https://showlab.github.io/Code2Video/) (Oct., 2025)\
-  [![Star](https://img.shields.io/github/stars/showlab/Code2Video.svg?style=social\&label=Star)](https://github.com/showlab/Code2Video) ⭐ 2,024 | 🐛 2 | 🌐 Python | 📅 2026-08-24
+  [![Star](https://img.shields.io/github/stars/showlab/Code2Video.svg?style=social\&label=Star)](https://github.com/showlab/Code2Video) ⭐ 2,025 | 🐛 2 | 🌐 Python | 📅 2026-08-24
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21755)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Code2Video/)
 
@@ -3615,4 +3615,4 @@ A curated list of recent diffusion models for video generation, editing, restora
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
